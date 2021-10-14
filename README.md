@@ -28,4 +28,4 @@ npm run server
 npm run build
 ```
 
-### Credits to Brad Traversy
+### &copy Credits to Brad Traversy
